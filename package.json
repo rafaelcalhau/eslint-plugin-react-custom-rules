@@ -1,0 +1,12 @@
+{
+  "name": "eslint-plugin-react-custom-rules",
+  "description": "My custom eslint rules for react application development.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "email": "calhaudev@gmail.com",
+    "name": "Rafael Calhau",
+    "url": "https://github.com/rafaelcalhau"
+  },
+  "license": "MIT"
+}
